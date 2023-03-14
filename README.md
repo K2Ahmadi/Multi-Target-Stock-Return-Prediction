@@ -1,4 +1,4 @@
-# Multi-Target-Stock-Returns-Prediction
+# Multi-Target-Stock-Return-Prediction
 Developed multiple different machine learning models on Python to predict the stock returns for Apple, IBM, and Microsoft
 
 The objective of this project is to identify the most accurate AI model for predicting returns of multiple assets in the stock market. The assets selected for this study are Apple, Microsoft, and IBM. The regression models used for this project are the following: 
